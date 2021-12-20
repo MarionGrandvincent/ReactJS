@@ -1,0 +1,2 @@
+Intallation : npm create-react-app mon-app
+pour commencer : npm start (ce placer dans le dossier crée)
